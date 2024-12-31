@@ -1,17 +1,38 @@
-## Hi there 👋
+## Developer
 
-<!--
-**hojung7/hojung7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+- 🙋‍♀️ 안녕하세요! **끊임없이 공부**하고 **성장**하는 개발자 정호정입니다.
 
-Here are some ideas to get you started:
+- 🤝 팀워크를 중사하며, **협력** 속에서 더 나은 해결책을 찾아내는 개발자가 되고 싶습니다.
+  
+- 🚀 **최신 기술**에 대한 관심이 많으며, 이를 프로젝트에 적용해보며 **나만의 것**으로 만들기 위해 노력합니다.
+  
+- 📄 학습한 것을 [**기술 블로그**](https://notion229.tistory.com/)에 기록하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojung7%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits%21&edge_flat=false"/></a>
+  
+</div>
+<br>
+
+## Skills 📖
+###
+
+
+### 
+
+
+### Collaboration
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+</div>
+
+
+## Contact📫
+<div align=center>
+  <br>
+</div>
+
+## Github-stats ⏲️  
