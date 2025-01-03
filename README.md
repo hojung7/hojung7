@@ -1,3 +1,4 @@
+# Hello, My Github!✨
 ## Developer ✏️
 
 <div>
@@ -36,3 +37,4 @@
 </div>
 
 ## Github-stats ⏲️  
+<img src="https://streak-stats.demolab.com?user=hojung7&theme=rose-pine&date_format=%5BY.%5Dn.j&card_width=400&border_radius=10"/>
