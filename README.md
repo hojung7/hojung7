@@ -17,9 +17,13 @@
 
 ## Skills 📖
 ###
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+</div>
 
-
-### 
 
 
 ### Collaboration
@@ -32,8 +36,10 @@
 
 
 ## Contact📫
-<div align=center>
-  <br>
+<div>
+  <img src="https://img.shields.io/badge/tcd835357@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
+  <a href="https://notion229.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=tistory&logoColor=white">
+  <a href="https://www.instagram.com/hxxuxx__/profilecard/?igsh=eDd3bTJ5dDlkZ2dy"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </div>
 
 ## Github-stats ⏲️  
